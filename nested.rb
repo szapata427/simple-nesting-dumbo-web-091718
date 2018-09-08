@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+return[:grace_hopper][:known_for]
 
 end
 
